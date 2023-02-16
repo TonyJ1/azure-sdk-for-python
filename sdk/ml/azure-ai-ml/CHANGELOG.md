@@ -5,6 +5,7 @@
 ### Features Added
 
 - Added support for `tags` on Compute Resources.
+- Allow `print(jobs.show_services())` to print the string representation of `Dict[str, ServiceInstance]`.
 
 ### Bugs Fixed
 
